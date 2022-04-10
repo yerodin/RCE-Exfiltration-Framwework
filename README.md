@@ -1,6 +1,6 @@
 # RCE-Exfiltration-Framework
 
-**Ever found and RCE but just can't seem to get a shell? Well we do have RCE right?? Let's Exfiltrate!!.**
+**Ever found and RCE but just can't seem to get a shell? Well we do have RCE right?? Let's Exfiltrate!!**
 
 ## How It Works
 This script works by using different means to quickly exfiltrate the output of RCE. 
